@@ -1,7 +1,7 @@
 crontab parser
 ==============
 
-C++ crontab parsing. Taking inspiration from pwalther's (www.redmoon.ch) Java implementation.
+C++ crontab parsing. Taking inspiration from pwalther's (www.redmoon.ch) Java implementation (www.redmoon.ch/srccode/crontabparser/Crontab.java).
 
 build
 ==============
